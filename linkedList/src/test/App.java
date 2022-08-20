@@ -1,12 +1,12 @@
 package test;
 
-import test.LinkedList;
+import test.DoublyLinkedList;
 
 public class App {
 
 	public static void main(String[] args) {
 		
-		DoublyLinkedList<Integer> dls=new DoublyLinkedList<>();
+		DoublyLinkedList dls=new DoublyLinkedList();
 		
 		dls.prepend(5);
 		
