@@ -4,7 +4,7 @@ public class Initialize {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Array Initialize program");
+		System.out.println("-------Array Initialize program---------");
 		
 		int arr[]= new int[5];
 		int brr[]=new int[] {10,20,30,40,50};
